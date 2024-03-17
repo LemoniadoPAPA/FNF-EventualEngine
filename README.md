@@ -17,8 +17,8 @@
 ![Captura de pantalla (44)](https://github.com/LemoniadoPAPA/FNF-EventualEngine/assets/92958266/afc54a84-4ef8-422b-88e8-0e99f2c4c69e)
 ![Captura de pantalla (33)](https://github.com/LemoniadoPAPA/FNF-EventualEngine/assets/92958266/ac7a8975-1773-4d7c-b34a-5cd2140b6a90)
 
-# Hola
-sasas
-asasa
-sasa
-sasas
+# Credits
+[Lemoniado](https://www.youtube.com/channel/UCmdcI4Ma8ZWDnG10QWlUv8g)
+
+# Shoutouts
+[LeonGamerPS4](https://github.com/LeonGamerPS4)
