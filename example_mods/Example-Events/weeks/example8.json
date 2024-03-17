@@ -1,0 +1,77 @@
+{
+	"storyName": "Example Events",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"milf-new",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"roses-new",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"guns-new",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"south-new",
+			"spooky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"winter-horrorland-new",
+			"monster",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tutorial-new",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Example Events"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Event Test",
+	"description": "This modpack will add some vanilla songs but only using new events from this engine",
+	"restart":true,
+	"basePeComp":true,
+	"runsGlobally": false,
+	"color": [10, 32, 193],
+	"discordRPC": "863222024192262205"
+}
