@@ -18,7 +18,7 @@
 ![Captura de pantalla (33)](https://github.com/LemoniadoPAPA/FNF-EventualEngine/assets/92958266/ac7a8975-1773-4d7c-b34a-5cd2140b6a90)
 
 # Credits
-[Lemoniado](https://www.youtube.com/channel/UCmdcI4Ma8ZWDnG10QWlUv8g)
+* [Lemoniado](https://www.youtube.com/channel/UCmdcI4Ma8ZWDnG10QWlUv8g)
 
 # Shoutouts
 * [Unknown Engine](https://github.com/LeonGamerPS4/UnknownEngine)
