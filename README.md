@@ -21,5 +21,5 @@
 [Lemoniado](https://www.youtube.com/channel/UCmdcI4Ma8ZWDnG10QWlUv8g)
 
 # Shoutouts
-[Unknown Engine]([https://github.com/LeonGamerPS4](https://github.com/LeonGamerPS4/UnknownEngine)) (Base of the Extra Data Code)
-[Ice Engine]([https://github.com/LeonGamerPS4](https://github.com/xenkap/IceEngine)https://github.com/xenkap/IceEngine) (Base of the Extra Data Code)
+[Unknown Engine]([https://github.com/LeonGamerPS4](https://github.com/LeonGamerPS4/UnknownEngine))
+[Ice Engine]([https://github.com/LeonGamerPS4](https://github.com/xenkap/IceEngine)https://github.com/xenkap/IceEngine)
