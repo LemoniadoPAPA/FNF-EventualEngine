@@ -11,7 +11,7 @@
 * A Watermark
 * And more!
 
-# Photos ([skip](#hola))
+# Photos ([skip](#Credits))
 
 ![Captura de pantalla (36)](https://github.com/LemoniadoPAPA/FNF-EventualEngine/assets/92958266/2ca2c040-60ed-4040-9d15-86ea5c0b8b03)
 ![Captura de pantalla (43)](https://github.com/LemoniadoPAPA/FNF-EventualEngine/assets/92958266/28fd56e1-8696-4683-a7cd-95ca184223f9)
