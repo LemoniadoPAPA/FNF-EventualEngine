@@ -2,8 +2,7 @@
  An Engine enfocated in adding Visual Effects and Quality life changes.
  # Building
  Same process of Psych Engine 0.7.3.
- [Here] are the instructions(./BUILDING.md)
-
+ You can see it [here](./BUILDING.md)
  
 # Features 
 * Events like Overlays (Which look like shaders!), a way to Fade the HUD!
