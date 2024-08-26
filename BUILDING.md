@@ -1,4 +1,4 @@
-# Eventual Engine Build Instructions
+# Eventual Engine/Psych Engine Build Instructions
 
 * [Dependencies](#dependencies)
 * [Building](#building)
